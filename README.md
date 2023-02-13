@@ -13,6 +13,8 @@
 
 4. [Sample Output](#output)
 
+5. [Source](#source)
+
 <a name="overview"/></a>
 ## 1. Overview
 [Back to ToC](#toc)
@@ -52,3 +54,9 @@ java MazeSolver < mazefile
 <p align="center">
 <img src="maze_solver.png" height="400"/>
 </p>
+
+<a name="source"/></a>
+## 5. Source
+[Back to ToC](#toc)
+
+This project utilizes classes created by Professor Nick Howe to run a graphical user interface for displaying maze solutions.
